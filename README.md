@@ -61,6 +61,9 @@ Actually:
 [<img align="left" alt="AZURE" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="padding-right:11px;" />][youtubeplaylist]
 [<img align="left" alt="AWS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" style="padding-right:11px;" />][youtubeplaylist]
 
+<br />
+<br />
+
 #### Coding
 [<img align="left" alt="PYTHON" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />][youtubeplaylist]
 [<img align="left" alt="DOCKER" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:11px;" />][youtubeplaylist]
@@ -69,9 +72,15 @@ Actually:
 [<img align="left" alt="GITHUB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />][youtubeplaylist]
 [<img align="left" alt="GITLAB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" style="padding-right:10px;" />][youtubeplaylist]
 
+<br />
+<br />
+
 #### Personal projects & Blog
 [<img align="left" alt="RASPBERRYPI" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" style="padding-right:10px;" />][youtubeplaylist]
 [<img align="left" alt="HUGO" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" style="padding-right:10px;" />][youtubeplaylist]
+
+<br />
+<br />
 
 #### AI & ML
 [<img align="left" alt="TENSORFLOW" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" style="padding-right:10px;" />][youtubeplaylist]
