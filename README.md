@@ -1,10 +1,16 @@
 # Mathieu
-I'm Mathieu from France, FullStack developper and Mentor/Teacher, I do content on Development and Freelancing. I really enjoy learning languages and frameworks like JS and React. 
+I'm Mathieu from France, freelancer, expert in cloud and data. I love playing around with Azure and, frome time to time, with AWS. I'm also an advisor for several startups like [Sparkline](https://sparkline.xyz/equipe/) and [Nricher](https://www.linkedin.com/company/nricher/?originalSubdomain=fr). Last but not least, I am an early stage investor/business angel: my last investments are: 
+
+- [Crealo](https://www.crealo.app/), a solution for copyrights and royalties
+- I joined the [Super Capital VC](https://www.supercapital.vc/) fund
+- I am a forme member of [Leonis Investissement](https://leonis.vc/) Clud.
+
+If you're looking for a BA, I would be happy to read your deck. 
 
 <!--
 **mbesson/mbesson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Actually:
+What I do: 
 
 - 🔭 I’m currently working on a new [Online Course][courses] ...
 - 🌱 I’m currently learning amazing things ...
@@ -38,20 +44,18 @@ Actually:
 
 ### Connect with me:
 
-[![img_contact](./img/globe-light.svg)](https://mikecodeur.com#gh-light-mode-only)
-[![img_contact](./img/globe-dark.svg)](https://mikecodeur.com#gh-dark-mode-only)
+[![img_contact](./img/globe-light.svg)](https://thetechpretender.substack.com/#gh-light-mode-only)
+[![img_contact](./img/globe-dark.svg)](https://thetechpretender.substack.com/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![img_contact](./img/youtube-light.svg)](https://go.mikecodeur.com/youtube#gh-light-mode-only)
-[![img_contact](./img/youtube-dark.svg)](https://go.mikecodeur.com/youtube#gh-dark-mode-only)
+[![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/mathieu-besson-expert-azure/#gh-light-mode-only)
+[![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mathieu-besson-expert-azure/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![img_contact](./img/twitter-light.svg)](https://twitter.com/mikecodeur#gh-light-mode-only)
-[![img_contact](./img/twitter-dark.svg)](https://twitter.com/mikecodeur#gh-dark-mode-only)
+[![img_contact](./img/github-light.svg)](https://github.com/mbesson/#gh-light-mode-only)
+[![img_contact](./img/github-dark.svg)](https://github.com/mbesson/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/company/mike-codeur/#gh-light-mode-only)
-[![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/company/mike-codeur/#gh-dark-mode-only)
+[![img_contact](./img/terminal-light.svg)](https://mbesson.github.io/#gh-light-mode-only)
+[![img_contact](./img/terminal-dark.svg)](https://mbesson.github.io/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![img_contact](./img/instagram-light.svg)](https://instagram.com/mikecodeur#gh-light-mode-only)
-[![img_contact](./img/instagram-dark.svg)](https://instagram.com/mikecodeur#gh-dark-mode-only)
 
 ### Languages and Tools:
 
@@ -69,7 +73,7 @@ Actually:
 [<img align="left" alt="DOCKER" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:11px;" />][youtubeplaylist]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][youtubeplaylist]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][youtubeplaylist]
-[<img align="left" alt="GITHUB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />][youtubeplaylist]
+[<img align="left" alt="GITHUB" width="26px" src="./img/github-dark.svg" style="padding-right:10px;" />][youtubeplaylist]
 [<img align="left" alt="GITLAB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" style="padding-right:10px;" />][youtubeplaylist]
 
 <br />
