@@ -74,7 +74,7 @@ Actually:
 ### My daily routine :
 
 ```mermaid
-  stateDiagram-v2
+  flowchart LR
     A[*] --> B[Wake Up]
     B --> D[Go solve problems]
     D --> E{Is it Hard?}
