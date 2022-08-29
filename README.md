@@ -86,56 +86,24 @@ Actually:
     I --> |Repeat|B
 ```
 
-### :computer: Last Technical Post
+### :pencil2: Last Post
 
 <!-- BLOG-POST-LIST:START -->
 - [Coming soon](https://thetechpretender.substack.com/p/coming-soon)
 <!-- BLOG-POST-LIST:END -->
 
-### :pencil2: Last Newsletter
-
-<!-- BLOG-POST-LIST:START -->
-- [5 outils en ligne pour dev frontend](https://www.mikecodeur.com/2022/08/26/5-outils-en-ligne-pour-dev-frontend/)
-- [5 livres pour développeurs](https://www.mikecodeur.com/2022/08/24/5-livres-pour-developpeurs/)
-- [Code de conduite entre développeurs](https://www.mikecodeur.com/2022/08/22/code-de-conduite-entre-developpeurs/)
-- [Créer une société à l’étranger](https://www.mikecodeur.com/2022/08/19/creer-une-societe-a-letranger/)
-- [4 idées de projets !](https://www.mikecodeur.com/2022/08/17/4-idees-de-projets/)
-<!-- BLOG-POST-LIST:END -->
-
 ### 🔥 Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/mbesson/mbesson/pull/2) in [mbesson/mbesson](https://github.com/mbesson/mbesson)
-2. 💪 Opened PR [#2](https://github.com/mbesson/mbesson/pull/2) in [mbesson/mbesson](https://github.com/mbesson/mbesson)
-3. 🎉 Merged PR [#1](https://github.com/mbesson/mbesson/pull/1) in [mbesson/mbesson](https://github.com/mbesson/mbesson)
-4. 💪 Opened PR [#1](https://github.com/mbesson/mbesson/pull/1) in [mbesson/mbesson](https://github.com/mbesson/mbesson)
+1. 🎉 Merged PR [#1](https://github.com/mbesson/mbesson/pull/1) in [mbesson/mbesson](https://github.com/mbesson/mbesson)
+2. 💪 Opened PR [#1](https://github.com/mbesson/mbesson/pull/1) in [mbesson/mbesson](https://github.com/mbesson/mbesson)
+3. ❗️ Opened issue [#26](https://github.com/mustaphaturhan/chakra-ui-markdown-renderer/issues/26) in [mustaphaturhan/chakra-ui-markdown-renderer](https://github.com/mustaphaturhan/chakra-ui-markdown-renderer)
+4. 💪 Opened PR [#1](https://github.com/MikeCodeur/react-netflix-clone/pull/1) in [MikeCodeur/react-netflix-clone](https://github.com/MikeCodeur/react-netflix-clone)
 5. 🎉 Merged PR [#9](https://github.com/MikeCodeur/react-hooks-avances/pull/9) in [MikeCodeur/react-hooks-avances](https://github.com/MikeCodeur/react-hooks-avances)
 <!--END_SECTION:activity-->
 
 ### ⭐ GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbesson&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
-
-### 📺 Last Youtube:
-
-<!-- YOUTUBE:START -->
-- [5 outils en ligne pour dev frontend](https://www.youtube.com/watch?v=LG-tcrAjWls)
-- [5 livres pour développeurs](https://www.youtube.com/watch?v=u3GbhkNDrxM)
-- [Code de conduite entre développeurs](https://www.youtube.com/watch?v=GWYIcn8qriE)
-- [Créer une société à l’étranger](https://www.youtube.com/watch?v=AeJ-Hk620AQ)
-- [4 idées de projets React / JS](https://www.youtube.com/watch?v=iexxH8gICt8)
-<!-- YOUTUBE:END -->
-
-<details>
-  <summary>📒 Latest blog content</summary>
-
-<!-- BLOG-POST-LIST:START -->
-- [5 outils en ligne pour dev frontend](https://www.mikecodeur.com/2022/08/26/5-outils-en-ligne-pour-dev-frontend/)
-- [5 livres pour développeurs](https://www.mikecodeur.com/2022/08/24/5-livres-pour-developpeurs/)
-- [Code de conduite entre développeurs](https://www.mikecodeur.com/2022/08/22/code-de-conduite-entre-developpeurs/)
-- [Créer une société à l’étranger](https://www.mikecodeur.com/2022/08/19/creer-une-societe-a-letranger/)
-- [4 idées de projets !](https://www.mikecodeur.com/2022/08/17/4-idees-de-projets/)
-<!-- BLOG-POST-LIST:END -->
-</details>
 
 [courses]: https://formations.mikecodeur.com
 [website]: https://go.mikecodeur.com/blog
