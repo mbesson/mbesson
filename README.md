@@ -74,7 +74,7 @@ Actually:
 ### My daily routine :
 
 ```mermaid
-  flowchart LR
+  flowchart TD
     B[Wake Up] --> D[Go solve problems]
     D --> E{Is it Hard?}
     E -->|Yes| F[Have coffee]
