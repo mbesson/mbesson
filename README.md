@@ -81,7 +81,7 @@ Actually:
     E -->|Hell Yes!| G[Find some help]
     E -->|No| H[Then fix it!]
     H -->|Congrats! You deserve a break.| F
-    F -->|Repeat|D
+    F -->H
     G --> H
     H --> |Repeat|D
 ```
