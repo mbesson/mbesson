@@ -74,10 +74,18 @@ Actually:
 ### My daily routine :
 
 ```mermaid
-  graph TD;
-      Code-->Eat;
-      Eat-->Sleep;
-      Sleep-->Code;
+  stateDiagram-v2
+    A[*] --> B[Wake Up]
+    B --> D[Go solve problems]
+    D --> E[Is it Hard?]{Decision}
+    E -->|Yes| F[Have coffee]
+    E -->|Hell Yes!| G[Find some help]
+    E -->|No| H[Then fix it!]
+    H -->|Congrats| F
+    F --> D
+    G --> D
+    H --> D
+    H --> [*]
 ```
 
 ### :computer: Last Technical Post
