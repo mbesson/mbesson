@@ -82,7 +82,8 @@ Actually:
     E -->|No| H[Then fix it!]
     F -->H
     G --> H
-    H --> |Repeat|D
+    H --> I[Go to sleep]
+    I --> |Repeat|B
 ```
 
 ### :computer: Last Technical Post
