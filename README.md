@@ -118,8 +118,8 @@ What I do:
 
 ### 🔥 Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/mbesson/mbesson/pull/1) in [mbesson/mbesson](https://github.com/mbesson/mbesson)
-2. 💪 Opened PR [#1](https://github.com/mbesson/mbesson/pull/1) in [mbesson/mbesson](https://github.com/mbesson/mbesson)
+1. 🎉 Merged PR [#2](https://github.com/mbesson/mbesson/pull/2) in [mbesson/mbesson](https://github.com/mbesson/mbesson)
+2. 💪 Opened PR [#2](https://github.com/mbesson/mbesson/pull/2) in [mbesson/mbesson](https://github.com/mbesson/mbesson)
 <!--END_SECTION:activity-->
 
 ### ⭐ GitHub Stats
