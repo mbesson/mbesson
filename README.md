@@ -90,6 +90,9 @@ Actually:
 
 <!-- BLOG-POST-LIST:START -->
 - [Coming soon](https://thetechpretender.substack.com/p/coming-soon)
+- [My third article](https://mbesson.github.io/posts/azure_network_architecture/)
+- [Secure your linux VM in the cloud](https://mbesson.github.io/posts/secure_linux/)
+- [Hello World!](https://mbesson.github.io/posts/about/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🔥 Recent GitHub Activity
