@@ -55,22 +55,19 @@ Actually:
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][youtubeplaylist]
-
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][youtubeplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][youtubeplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][youtubeplaylist]
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][youtubeplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />][youtubeplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][youtubeplaylist]
-[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />][youtubeplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][youtubeplaylist]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][youtubeplaylist]
-
-
+[<img align="left" alt="TERRAFORM" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" style="padding-right:11px;" />][youtubeplaylist]
+[<img align="left" alt="KUBERNETES" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" style="padding-right:10px;" />][youtubeplaylist]
+[<img align="left" alt="PYTHON" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />][youtubeplaylist]
+[<img align="left" alt="AZURE" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="padding-right:11px;" />][youtubeplaylist]
 [<img align="left" alt="AWS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" style="padding-right:11px;" />][youtubeplaylist]
-
-
+[<img align="left" alt="DOCKER" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:11px;" />][youtubeplaylist]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][youtubeplaylist]
+[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][youtubeplaylist]
+[<img align="left" alt="GITHUB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />][youtubeplaylist]
+[<img align="left" alt="GITLAB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" style="padding-right:10px;" />][youtubeplaylist]
+[<img align="left" alt="HUGO" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" style="padding-right:10px;" />][youtubeplaylist]
+[<img align="left" alt="RASPBERRYPI" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" style="padding-right:10px;" />][youtubeplaylist]
+[<img align="left" alt="TENSORFLOW" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" style="padding-right:10px;" />][youtubeplaylist]
 <br />
 <br />
 
@@ -83,7 +80,7 @@ Actually:
       Sleep-->Code;
 ```
 
-### 📺 Last Technical Post
+### :computer: Last Technical Post
 
 <!-- BLOG-POST-LIST:START -->
 - [Coming soon](https://thetechpretender.substack.com/p/coming-soon)
@@ -126,7 +123,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
-- [Coming soon](https://thetechpretender.substack.com/p/coming-soon)
+- [5 outils en ligne pour dev frontend](https://www.mikecodeur.com/2022/08/26/5-outils-en-ligne-pour-dev-frontend/)
+- [5 livres pour développeurs](https://www.mikecodeur.com/2022/08/24/5-livres-pour-developpeurs/)
+- [Code de conduite entre développeurs](https://www.mikecodeur.com/2022/08/22/code-de-conduite-entre-developpeurs/)
+- [Créer une société à l’étranger](https://www.mikecodeur.com/2022/08/19/creer-une-societe-a-letranger/)
+- [4 idées de projets !](https://www.mikecodeur.com/2022/08/17/4-idees-de-projets/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
