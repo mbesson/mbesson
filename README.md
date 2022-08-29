@@ -74,9 +74,10 @@ Actually:
 ### My daily routine :
 
 ```mermaid
-  flowchart LR
-    B[Wake Up] --> D[Go solve problems]
-    D --> E[Is it Hard?]{Decision}
+  stateDiagram-v2
+    A[*] --> B[Wake Up]
+    B --> D[Go solve problems]
+    D --> E{Is it Hard?}
     E -->|Yes| F[Have coffee]
     E -->|Hell Yes!| G[Find some help]
     E -->|No| H[Then fix it!]
@@ -84,6 +85,7 @@ Actually:
     F --> D
     G --> D
     H --> D
+    H --> [*]
 ```
 
 ### :computer: Last Technical Post
