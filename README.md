@@ -75,8 +75,7 @@ Actually:
 
 ```mermaid
   flowchart LR
-    A[*] --> B[Wake Up]
-    B --> D[Go solve problems]
+    B[Wake Up] --> D[Go solve problems]
     D --> E{Is it Hard?}
     E -->|Yes| F[Have coffee]
     E -->|Hell Yes!| G[Find some help]
@@ -85,7 +84,6 @@ Actually:
     F --> D
     G --> D
     H --> D
-    H --> [*]
 ```
 
 ### :computer: Last Technical Post
