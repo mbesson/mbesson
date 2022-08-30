@@ -14,3 +14,6 @@ jobs:
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN }}
+        with:
+          COMMIT_MSG: '[ACTIONS]: Checked your most recent activity'
+          MAX_LINES: 5
