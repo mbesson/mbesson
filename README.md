@@ -118,8 +118,8 @@ What I do:
 
 ### 🔥 Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/mbesson/azure-datalake-terraform/pull/5) in [mbesson/azure-datalake-terraform](https://github.com/mbesson/azure-datalake-terraform)
-2. 🎉 Merged PR [#3](https://github.com/mbesson/azure-datalake-terraform/pull/3) in [mbesson/azure-datalake-terraform](https://github.com/mbesson/azure-datalake-terraform)
+1. 🎉 Merged PR [#3](https://github.com/mbesson/mbesson/pull/3) in [mbesson/mbesson](https://github.com/mbesson/mbesson)
+2. 💪 Opened PR [#3](https://github.com/mbesson/mbesson/pull/3) in [mbesson/mbesson](https://github.com/mbesson/mbesson)
 <!--END_SECTION:activity-->
 
 ### ⭐ GitHub Stats
