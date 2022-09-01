@@ -18,13 +18,13 @@ What I do:
 - ⚡ I'am a young Dad! Yes, technical bugs was not enough to fill my day. 
 - 📫 How to reach me: email ok linkedin
 
-## My 100% online React Bootcamp
+## My 100% online Tech Academy
 
  <strong>
-    3 months to be a really good React Programmer
+    Jump up your career with practical tools and methods comming from 10 years of experience. 
   </strong>
   <p>
-    Be a Master in React by building amazing projects
+    Be a Master in Git, Azure, Terraform and much more.
   </p>
 
   <a href="https://go.mikecodeur.com/react-mastery">
