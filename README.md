@@ -3,7 +3,7 @@ I'm Mathieu from France, freelancer, expert in cloud and data. I love playing ar
 
 - [Crealo](https://www.crealo.app/), a solution for copyrights and royalties
 - I joined the [Super Capital VC](https://www.supercapital.vc/) fund
-- I am a forme member of [Leonis Investissement](https://leonis.vc/) Clud.
+- I am a former member of [Leonis Investissement](https://leonis.vc/) Club.
 
 If you're looking for a BA, I would be happy to read your deck. 
 
@@ -13,18 +13,18 @@ If you're looking for a BA, I would be happy to read your deck.
 What I do: 
 
 - 🔭 I’m currently working on a new [Online Course][courses] ...
-- 🌱 I’m currently learning amazing things ...
-- 👯 I help people to be programmers and feelancers ...
-- ⚡ Fun fact : I'am DJ, Diver, Skateboarder and Surfer
-- 📫 How to reach me: Instagram or email
+- 🌱 I am preparing the [CERTIFIED KUBERNETES ADMINISTRATOR (CKA)](https://www.cncf.io/certification/cka/) certification. Wish me luck ;)
+- 👯 I help companies building soling technical roadmaps.
+- ⚡ I'am a young Dad! Yes, technical bugs was not enough to fill my day. 
+- 📫 How to reach me: email ok linkedin
 
-## My 100% online React Bootcamp
+## My 100% online Tech Academy
 
  <strong>
-    3 months to be a really good React Programmer
+    Jump up your career with practical tools and methods comming from 10 years of experience. 
   </strong>
   <p>
-    Be a Master in React by building amazing projects
+    Be a Master in Git, Azure, Terraform and much more.
   </p>
 
   <a href="https://go.mikecodeur.com/react-mastery">
