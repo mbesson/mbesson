@@ -119,8 +119,8 @@ What I do:
 
 ### 🔥 Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/mbesson/mbesson/pull/3) in [mbesson/mbesson](https://github.com/mbesson/mbesson)
-2. 💪 Opened PR [#3](https://github.com/mbesson/mbesson/pull/3) in [mbesson/mbesson](https://github.com/mbesson/mbesson)
+1. 🎉 Merged PR [#1](https://github.com/mbesson/adf-cicd-done-right/pull/1) in [mbesson/adf-cicd-done-right](https://github.com/mbesson/adf-cicd-done-right)
+2. 💪 Opened PR [#1](https://github.com/mbesson/adf-cicd-done-right/pull/1) in [mbesson/adf-cicd-done-right](https://github.com/mbesson/adf-cicd-done-right)
 <!--END_SECTION:activity-->
 
 ### ⭐ GitHub Stats
