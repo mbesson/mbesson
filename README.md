@@ -44,8 +44,8 @@ What I do:
 
 ### Connect with me:
 
-[![img_contact](./img/globe-light.svg)](https://thetechpretender.substack.com/#gh-light-mode-only)
-[![img_contact](./img/globe-dark.svg)](https://thetechpretender.substack.com/#gh-dark-mode-only)
+[![img_contact](./img/globe-light.svg)](https://theaugmenteddeveloper.substack.com/#gh-light-mode-only)
+[![img_contact](./img/globe-dark.svg)](https://theaugmenteddeveloper.substack.com/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/mathieu-besson-expert-azure/#gh-light-mode-only)
 [![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mathieu-besson-expert-azure/#gh-dark-mode-only)
