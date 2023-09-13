@@ -87,11 +87,11 @@ What I do:
 ### :pencil2: Last Post
 
 <!-- BLOG-POST-LIST:START -->
-- [TMF #001 David contre Goliath](https://themonthlyfreelancer.substack.com/p/david-contre-goliath)
 - [A simple yet fun flask application](https://mbesson.github.io/posts/simple_flask_app/)
 - [Install Github runner on linode VM](https://mbesson.github.io/posts/install_github_agent_on_linode/)
-- [Coming soon](https://themonthlyfreelancer.substack.com/p/coming-soon)
 - [My third article](https://mbesson.github.io/posts/azure_network_architecture/)
+- [Secure your linux VM in the cloud](https://mbesson.github.io/posts/secure_linux/)
+- [Hello World!](https://mbesson.github.io/posts/about/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🔥 Recent GitHub Activity
